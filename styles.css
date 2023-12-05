@@ -1,0 +1,44 @@
+.btn-sm {
+    background-color: #EBF0EE;
+}
+.btn-project,
+.btn-resume{
+    background-color: #36B37F;
+}
+.btn-project:hover{
+    background-color: #008552;
+}
+
+.btn-anim {
+    box-shadow: 0 5px 0 #172B4D;
+    transition: all .1sec linear;
+}
+
+.btn-anim:active{
+    box-shadow: 0 2px 0 #008552;
+    transform: translateY(3px);
+}
+.card-technologies{
+    background-color: #EBF0EE;
+}
+.btn-technologies{
+    background-color: #ffffff;
+}
+
+.img-background {
+    background-color: white;
+    border-radius: 50%;
+}
+
+.img-technologies{
+    border-radius: 50%;
+    background-color: #ffffff;
+    padding: 8px;
+}
+
+header {
+
+    background: url(./img/Header-llustration-desktop@2x.png) no-repeat;
+    background-position: 50% -5%;
+    background-size: 70% auto;
+}
